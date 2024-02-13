@@ -1,0 +1,24 @@
+C:\Users\Hp\source\repos\WFAkararmekanizmalariOdev_0\WFAkararmekanizmalariOdev_0\bin\Debug\WFAkararmekanizmalariOdev_0.exe.config
+C:\Users\Hp\source\repos\WFAkararmekanizmalariOdev_0\WFAkararmekanizmalariOdev_0\bin\Debug\WFAkararmekanizmalariOdev_0.exe
+C:\Users\Hp\source\repos\WFAkararmekanizmalariOdev_0\WFAkararmekanizmalariOdev_0\bin\Debug\WFAkararmekanizmalariOdev_0.pdb
+C:\Users\Hp\source\repos\WFAkararmekanizmalariOdev_0\WFAkararmekanizmalariOdev_0\obj\Debug\WFAkararmekanizmalariOdev_0.csproj.AssemblyReference.cache
+C:\Users\Hp\source\repos\WFAkararmekanizmalariOdev_0\WFAkararmekanizmalariOdev_0\obj\Debug\WFAkararmekanizmalariOdev_0.Form1.resources
+C:\Users\Hp\source\repos\WFAkararmekanizmalariOdev_0\WFAkararmekanizmalariOdev_0\obj\Debug\WFAkararmekanizmalariOdev_0.Form2.resources
+C:\Users\Hp\source\repos\WFAkararmekanizmalariOdev_0\WFAkararmekanizmalariOdev_0\obj\Debug\WFAkararmekanizmalariOdev_0.Properties.Resources.resources
+C:\Users\Hp\source\repos\WFAkararmekanizmalariOdev_0\WFAkararmekanizmalariOdev_0\obj\Debug\WFAkararmekanizmalariOdev_0.csproj.GenerateResource.cache
+C:\Users\Hp\source\repos\WFAkararmekanizmalariOdev_0\WFAkararmekanizmalariOdev_0\obj\Debug\WFAkararmekanizmalariOdev_0.csproj.CoreCompileInputs.cache
+C:\Users\Hp\source\repos\WFAkararmekanizmalariOdev_0\WFAkararmekanizmalariOdev_0\obj\Debug\WFAkararmekanizmalariOdev_0.exe
+C:\Users\Hp\source\repos\WFAkararmekanizmalariOdev_0\WFAkararmekanizmalariOdev_0\obj\Debug\WFAkararmekanizmalariOdev_0.pdb
+C:\Users\Hp\source\repos\WFAkararmekanizmalariOdev_0\WFAkararmekanizmalariOdev_0\obj\Debug\WFAkararmekanizmalariOdev_0.Form3.resources
+C:\Users\Lenovo\Desktop\Projeler\WFAkararmekanizmalariOdev_0 (1)\WFAkararmekanizmalariOdev_0\WFAkararmekanizmalariOdev_0\bin\Debug\WFAkararmekanizmalariOdev_0.exe.config
+C:\Users\Lenovo\Desktop\Projeler\WFAkararmekanizmalariOdev_0 (1)\WFAkararmekanizmalariOdev_0\WFAkararmekanizmalariOdev_0\bin\Debug\WFAkararmekanizmalariOdev_0.exe
+C:\Users\Lenovo\Desktop\Projeler\WFAkararmekanizmalariOdev_0 (1)\WFAkararmekanizmalariOdev_0\WFAkararmekanizmalariOdev_0\bin\Debug\WFAkararmekanizmalariOdev_0.pdb
+C:\Users\Lenovo\Desktop\Projeler\WFAkararmekanizmalariOdev_0 (1)\WFAkararmekanizmalariOdev_0\WFAkararmekanizmalariOdev_0\obj\Debug\WFAkararmekanizmalariOdev_0.csproj.AssemblyReference.cache
+C:\Users\Lenovo\Desktop\Projeler\WFAkararmekanizmalariOdev_0 (1)\WFAkararmekanizmalariOdev_0\WFAkararmekanizmalariOdev_0\obj\Debug\WFAkararmekanizmalariOdev_0.Form1.resources
+C:\Users\Lenovo\Desktop\Projeler\WFAkararmekanizmalariOdev_0 (1)\WFAkararmekanizmalariOdev_0\WFAkararmekanizmalariOdev_0\obj\Debug\WFAkararmekanizmalariOdev_0.Form2.resources
+C:\Users\Lenovo\Desktop\Projeler\WFAkararmekanizmalariOdev_0 (1)\WFAkararmekanizmalariOdev_0\WFAkararmekanizmalariOdev_0\obj\Debug\WFAkararmekanizmalariOdev_0.Form3.resources
+C:\Users\Lenovo\Desktop\Projeler\WFAkararmekanizmalariOdev_0 (1)\WFAkararmekanizmalariOdev_0\WFAkararmekanizmalariOdev_0\obj\Debug\WFAkararmekanizmalariOdev_0.Properties.Resources.resources
+C:\Users\Lenovo\Desktop\Projeler\WFAkararmekanizmalariOdev_0 (1)\WFAkararmekanizmalariOdev_0\WFAkararmekanizmalariOdev_0\obj\Debug\WFAkararmekanizmalariOdev_0.csproj.GenerateResource.cache
+C:\Users\Lenovo\Desktop\Projeler\WFAkararmekanizmalariOdev_0 (1)\WFAkararmekanizmalariOdev_0\WFAkararmekanizmalariOdev_0\obj\Debug\WFAkararmekanizmalariOdev_0.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\Desktop\Projeler\WFAkararmekanizmalariOdev_0 (1)\WFAkararmekanizmalariOdev_0\WFAkararmekanizmalariOdev_0\obj\Debug\WFAkararmekanizmalariOdev_0.exe
+C:\Users\Lenovo\Desktop\Projeler\WFAkararmekanizmalariOdev_0 (1)\WFAkararmekanizmalariOdev_0\WFAkararmekanizmalariOdev_0\obj\Debug\WFAkararmekanizmalariOdev_0.pdb
